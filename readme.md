@@ -2,14 +2,6 @@
 
 Protect your production app with catching undesirable input.
 
-## Installation
-
-Via Composer
-
-``` bash
-composer require obotoz/condom
-```
-
 ## Usage
 
 Publish configs with:
