@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Obotoz\Condom\Exceptions;
+namespace AlphaDeltas\Condom\Exceptions;
 
 use Exception;
 

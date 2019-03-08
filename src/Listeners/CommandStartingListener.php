@@ -1,11 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace Obotoz\Condom\Listeners;
+namespace AlphaDeltas\Condom\Listeners;
 
 use Illuminate\Console\Events\CommandStarting;
 use Illuminate\Support\Facades\Log;
-use Obotoz\Condom\Exceptions\DangerousCommandRunException;
+use AlphaDeltas\Condom\Exceptions\DangerousCommandRunException;
 
 class CommandStartingListener
 {

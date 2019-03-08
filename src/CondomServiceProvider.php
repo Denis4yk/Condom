@@ -1,12 +1,12 @@
 <?php
 declare(strict_types=1);
 
-namespace Obotoz\Condom;
+namespace AlphaDeltas\Condom;
 
 use Illuminate\Console\Events\CommandStarting;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\ServiceProvider;
-use Obotoz\Condom\Listeners\CommandStartingListener;
+use AlphaDeltas\Condom\Listeners\CommandStartingListener;
 
 class CondomServiceProvider extends ServiceProvider
 {
