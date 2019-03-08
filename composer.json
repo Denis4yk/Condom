@@ -1,5 +1,5 @@
 {
-    "name": "obotoz/condom",
+    "name": "alphadeltas/condom",
     "description": ":description",
     "license": "license",
     "authors": [
@@ -8,7 +8,7 @@
             "email": "riabiy.denis@gmail.com"
         }
     ],
-    "homepage": "https://github.com/obotoz/condom",
+    "homepage": "https://github.com/hasfoug/Condom",
     "keywords": [
         "Laravel",
         "Condom"
@@ -24,21 +24,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Obotoz\\Condom\\": "src/"
+            "AlphaDeltas\\Condom\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Obotoz\\Condom\\Tests\\": "tests"
+            "AlphaDeltas\\Condom\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Obotoz\\Condom\\CondomServiceProvider"
+                "AlphaDeltas\\Condom\\CondomServiceProvider"
             ],
             "aliases": {
-                "Condom": "Obotoz\\Condom\\Facades\\Condom"
+                "Condom": "AlphaDeltas\\Condom\\Facades\\Condom"
             }
         }
     }
