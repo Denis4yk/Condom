@@ -22,4 +22,4 @@ If you discover any security related issues, please email riabiy.denis@gmail.com
 
 ## License
 
-Nah...who reads this.
+Licensed under the [MIT license](https://github.com/deployphp/deployer/blob/master/LICENSE).
