@@ -1,7 +1,7 @@
 {
     "name": "alphadeltas/condom",
     "description": ":description",
-    "license": "license",
+    "license": "GPL-3.0-only / GPL-3.0-or-later",
     "authors": [
         {
             "name": "Denis Riabiy",
