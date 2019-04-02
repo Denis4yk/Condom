@@ -44,7 +44,7 @@ return [
         'migrate:reset',
         'migrate:refresh',
         'migrate:rollback',
-        'db',
+        'db:',
     ],
 
     /*
